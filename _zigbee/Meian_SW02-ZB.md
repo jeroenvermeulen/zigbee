@@ -11,3 +11,5 @@ compatible: [deconz, z2m, z4d]
 z2m: TS0207_water_leak_detector
 deconz: 6823
 ---
+There is a button hidden under the top cover.
+You just need to press on the water drop icon on the top to join the water leak sensor to your Zigbee network.
